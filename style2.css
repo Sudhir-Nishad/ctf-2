@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+}
+.content
+{
+    width: 80%;
+    height: 300px;
+    /* background-color: rebeccapurple; */
+    font-size: 100px;
+    text-align: center;
+    font-family: "Press Start 2P";
+    position: relative;
+    margin-top: 100px;
+    color: white;
+    
+}
+.logo
+{
+    width: 30%;
+    height:auto;
+    font-size: 150px;
+    /* background-color: rebeccapurple; */
+    /* flag{2_of_2Okjl78FwIRu} */
+    position: relative;
+    text-align: center;
+    position: relative;
+    color: red;
+    /* margin-top: 50px;     */
+    
+}
